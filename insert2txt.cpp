@@ -1,6 +1,7 @@
 //
 //
 // insert2txt, by Pilho Kim, 2008.
+// modified for Linux by Çağatay Çallı, 2010.
 //
 // 
 // Object: Convert the MySQL exported INSERT statements into raw data text objects.
