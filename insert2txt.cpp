@@ -24,9 +24,7 @@
 // 1141,0,'Paris'
 // 1141,0,'Physics'
 //
-// Compiler: MS VS 2005. Sorry to VS6 users. Yours do not support _stati64  
-//			 and _ftelli64 that are necessary to handle big giga-byte files.
-//
+// Compiler: Tested with g++ 4.4.1
 
 #include <time.h>
 #include <string.h>
