@@ -1,7 +1,10 @@
 //
 //
 // insert2txt, by Pilho Kim, 2008.
+// http://www.pilhokim.com/index.php?title=EChronicle:Wikipedia_database
+//
 // modified for Linux by Çağatay Çallı, 2010.
+//
 //
 // 
 // Object: Convert the MySQL exported INSERT statements into raw data text objects.
